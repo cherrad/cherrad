@@ -1,6 +1,6 @@
 [Adblock 2.0]
 ! Checksum: 
-! Version: 202111150055
+! Version: 202111150056
 ! Title: List
 ! Expires: 1 days
 ! Description: Filtres 
@@ -10,3 +10,4 @@
 !
 !----------------------- Filtres ----------------------!
 ##div[class*="ytd-rich-item-renderer"]
+##ytd-rich-item-renderer
