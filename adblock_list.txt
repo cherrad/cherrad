@@ -2,11 +2,11 @@
 ! Checksum: 
 ! Version: 202111150055
 ! Title: List
-! Expires: 15 days
+! Expires: 1 days
 ! Description: Filtres 
 ! Homepage: https://cherrad.net
 ! Repo Git: https://github.com/cherrad/
 ! Licence : https://creativecommons.org/licenses/by-nc-sa/3.0/
 !
 !----------------------- Filtres ----------------------!
-##div[class="style-scope ytd-rich-item-renderer"]
+##div[class*="ytd-rich-item-renderer"]
